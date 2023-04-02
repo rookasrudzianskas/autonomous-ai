@@ -1,0 +1,8 @@
+scripts/keys.py
+scripts/*json
+scripts/node_modules/
+scripts/__pycache__/keys.cpython-310.pyc
+package-lock.json
+*.pyc
+scripts/auto_gpt_workspace/*
+*.mpeg
